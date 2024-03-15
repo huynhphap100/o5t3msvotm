@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Plugin Spigot Tools
-[![Bukkit Version](https://img.shields.io/badge/bukkit-1.19.1-dark_green.svg)](https://shields.io/)
+[![Bukkit Version](https://img.shields.io/badge/bukkit-1.20.4-dark_green.svg)](https://shields.io/)
 [![Java](https://img.shields.io/badge/java-8-dark_green.svg)](https://shields.io/)
 
 Library mainly designed to provide cross-version support for Minecraft Bukkit plugins,
@@ -57,7 +57,7 @@ but it also includes numerous extra methods to help developers design their plug
 <dependency>
     <groupId>me.orineko</groupId>
     <artifactId>Tools</artifactId>
-    <version>1.0</version>
+    <version>1.3.1a</version>
 </dependency>
 ```
 >>>>>>> f6eaff9 (Create README.md)
